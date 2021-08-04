@@ -6,4 +6,7 @@ See code in **`Program.cs`**.
 
 **Note:** A reference to assembly ***System.Web.Extensions*** is required.
 
-**Information: [How to use HttpClient to send content in body of GET request?](https://stackoverflow.com/questions/43421126/how-to-use-httpclient-to-send-content-in-body-of-get-request)**
+**Information:**
+
+- **[How to use HttpClient to send content in body of GET request?](https://stackoverflow.com/questions/43421126/how-to-use-httpclient-to-send-content-in-body-of-get-request)**
+- **[HTTP GET with Request body - Guidelines](https://www.thecodebuzz.com/http-get-delete-request-body-guidelines/)**
